@@ -1,0 +1,8 @@
+{
+  "dbType": "postgres",
+  "dbHost": "localhost",
+  "dbName": "setipra",
+  "dbUser": "postgres",
+  "dbPass": "postgres",
+  "dbPort": "5432"
+}
